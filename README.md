@@ -5,7 +5,7 @@ Intel OID, Nvidia Optix & RenderMan Hyperion Denoiser.
 Thanks to Declan Russell for the windows exec.
 https://github.com/DeclanRussell
 
-Release v3.34
+Release v3.4
 - Upgraded OIDN version to 2.3.3 see release notes for details.
 - Upgraded Optix version to 2.4.0
 
@@ -17,7 +17,7 @@ For NVidia Optix denoiser, **Nvidia drivers must be updated.**
 For RenderMan denoiser, I assume RendermanProServer is installed. 
 
 # Change Log
-**v3.34**
+**v3.4**
 - Upgraded OIDN version to 2.3.3 see release notes for details.
 - Upgraded Optix version to 2.4.0
 
