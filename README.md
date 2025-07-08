@@ -5,7 +5,7 @@ Intel OID, Nvidia Optix & RenderMan Hyperion Denoiser.
 Thanks to Declan Russell for the windows exec.
 https://github.com/DeclanRussell
 
-Release v3.33
+Release v3.34
 - Upgraded OIDN version to 1.4.0 see release notes for details.
 - Added the -clean_aux flag. This can improve denoising quality but assumes that all feature AOVs are noiseless. If AOVs are noisy when using this option, results can be worse. Available in the "Advanced" Tab.
 https://github.com/ChristopheMoreau/FiNE/releases/tag/v3.33
@@ -14,10 +14,15 @@ https://github.com/ChristopheMoreau/FiNE/releases/tag/v3.33
 Unzip the FiNE_v3.32 folder.
 Launch the FiNE_v3.32.exe.
 Enjoy !
-For NVidia Optix denoiser, Nvidia drivers must be updated. (at least version 436)
+For NVidia Optix denoiser, **Nvidia drivers must be updated.**
 For RenderMan denoiser, I assume RendermanProServer is installed. 
 
 # Change Log
+**v3.34**
+- Upgraded OIDN version to 2.3.3 see release notes for details.
+- Upgraded Optix version to 2.4.0
+- Added the -clean_aux flag. This can improve denoising quality but assumes that all feature AOVs are noiseless. If AOVs are noisy when using this option, results can be worse. Available in the "Advanced" Tab.
+
 **v3.33**
 - Upgraded OIDN version to 1.4.0 see release notes for details.
 - Added the -clean_aux flag. This can improve denoising quality but assumes that all feature AOVs are noiseless. If AOVs are noisy when using this option, results can be worse. Available in the "Advanced" Tab.
