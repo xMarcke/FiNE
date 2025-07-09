@@ -7,7 +7,7 @@ https://github.com/DeclanRussell
 
 Release v3.4
 - Upgraded OIDN version to 2.3.3 see release notes for details.
-- Upgraded Optix version to 2.4.0
+- Upgraded Optix version to 2.4.0 see release notes for details.
 
 # INSTALL
 Unzip the FiNE_v3.32 folder.
